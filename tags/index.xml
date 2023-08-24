@@ -3,5 +3,61 @@
         <title>Tags - Tag - 猫咪后院</title>
         <link>https://kanna-89.github.io/tags/</link>
         <description>Tags - Tag - 猫咪后院</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://kanna-89.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://kanna-89.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>安装</title>
+    <link>https://kanna-89.github.io/tags/installation/_index.zh-cn/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Kanna</author>
+    <guid>https://kanna-89.github.io/tags/installation/_index.zh-cn/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>配置</title>
+    <link>https://kanna-89.github.io/tags/configuration/_index.zh-cn/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Kanna</author>
+    <guid>https://kanna-89.github.io/tags/configuration/_index.zh-cn/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>https://kanna-89.github.io/tags/markdown/</link>
+    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Kanna</author>
+    <guid>https://kanna-89.github.io/tags/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>内容</title>
+    <link>https://kanna-89.github.io/tags/content/_index.zh-cn/</link>
+    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
+    <author>Kanna</author>
+    <guid>https://kanna-89.github.io/tags/content/_index.zh-cn/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>shortcodes</title>
+    <link>https://kanna-89.github.io/tags/shortcodes/</link>
+    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <author>Kanna</author>
+    <guid>https://kanna-89.github.io/tags/shortcodes/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>HTML</title>
+    <link>https://kanna-89.github.io/tags/html/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Kanna</author>
+    <guid>https://kanna-89.github.io/tags/html/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>emoji</title>
+    <link>https://kanna-89.github.io/tags/emoji/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Kanna</author>
+    <guid>https://kanna-89.github.io/tags/emoji/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
