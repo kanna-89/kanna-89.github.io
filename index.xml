@@ -3,9 +3,17 @@
         <title>猫咪后院</title>
         <link>https://kanna-89.github.io/</link>
         <description>Evrything about my thoughts.</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Aug 2023 17:09:27 -0700</lastBuildDate>
             <atom:link href="https://kanna-89.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>建站遇到的问题总结</title>
+    <link>https://kanna-89.github.io/hugo-debugging-summary/</link>
+    <pubDate>Thu, 24 Aug 2023 17:09:27 -0700</pubDate>
+    <author>Kanna</author>
+    <guid>https://kanna-89.github.io/hugo-debugging-summary/</guid>
+    <description><![CDATA[想到哪写到哪。 参考资料 官方文档 LoveIt主题样例网站 Hugo 从入门到会用 搭建时遇到的错误和Tips GitHub Pages 404 解决：repository必须要设定成公]]></description>
+</item>
+<item>
     <title>Markdown 基本语法</title>
     <link>https://kanna-89.github.io/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
